@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 陈炎柯的个人主页</title>
-    <link>https://example.com/tags/</link>
+    <link>https://yankechen.xyz/tags/</link>
     <description>Recent content in Tags on 陈炎柯的个人主页</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2020, Yan-Ke Chen</copyright>
     <lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yankechen.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>BtoTetraquarks</title>
-      <link>https://example.com/tags/btotetraquarks/</link>
+      <link>https://yankechen.xyz/tags/btotetraquarks/</link>
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/btotetraquarks/</guid>
+      <guid>https://yankechen.xyz/tags/btotetraquarks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>微分几何</title>
-      <link>https://example.com/tags/%E5%BE%AE%E5%88%86%E5%87%A0%E4%BD%95/</link>
+      <link>https://yankechen.xyz/tags/%E5%BE%AE%E5%88%86%E5%87%A0%E4%BD%95/</link>
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/%E5%BE%AE%E5%88%86%E5%87%A0%E4%BD%95/</guid>
+      <guid>https://yankechen.xyz/tags/%E5%BE%AE%E5%88%86%E5%87%A0%E4%BD%95/</guid>
       <description></description>
     </item>
     
