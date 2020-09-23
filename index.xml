@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>陈炎柯的个人主页</title>
+    <link>https://example.com/</link>
+    <description>Recent content on 陈炎柯的个人主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright 2020, Yan-Ke Chen</copyright>
+    <lastBuildDate>Wed, 23 Sep 2020 21:58:43 +0800</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Popularization</title>
+      <link>https://example.com/popularization/</link>
+      <pubDate>Wed, 23 Sep 2020 21:58:43 +0800</pubDate>
+      
+      <guid>https://example.com/popularization/</guid>
+      <description>科普短文 我将会在这里尝试撰写一些科普短文, 能够传播知识是我个人的一大愿望, 先开一个栏目以后填</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://example.com/research/</link>
+      <pubDate>Wed, 23 Sep 2020 21:58:17 +0800</pubDate>
+      
+      <guid>https://example.com/research/</guid>
+      <description>科研工作 这一栏中是我目前参与过的科研工作, 希望日后可以慢慢丰富起来。
+&amp;nbsp;&amp;nbsp;
+Sept 23 2020 在$B$介子弱衰变过程中研究显粲四夸克态</description>
+    </item>
+    
+    <item>
+      <title>Practice</title>
+      <link>https://example.com/practice/</link>
+      <pubDate>Wed, 23 Sep 2020 21:57:32 +0800</pubDate>
+      
+      <guid>https://example.com/practice/</guid>
+      <description>练习 我将会在这里上传一些平时遇到的比较有趣的习题, 欢迎交流讨论。</description>
+    </item>
+    
+    <item>
+      <title>Note</title>
+      <link>https://example.com/note/</link>
+      <pubDate>Wed, 23 Sep 2020 21:44:01 +0800</pubDate>
+      
+      <guid>https://example.com/note/</guid>
+      <description>笔记 这一栏中是我日常的课程和读书笔记, 希望可以在分享交流的同时督促自己养成写笔记的习惯。
+&amp;nbsp;&amp;nbsp;
+Sept 23 2020 流形微分几何笔记</description>
+    </item>
+    
+    <item>
+      <title>在$B$介子弱衰变过程中研究显粲四夸克态</title>
+      <link>https://example.com/post/bdecay/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/bdecay/</guid>
+      <description>奇特强子态是一类不同于一般的介子($q\bar{q}$)和重子($qqq$)的特殊强子, 自2003年Belle实验发现$\chi_{c1}(3872)$以来, 越来越多的奇特强子态在实验中被观测到。目前理论上构造了各种各样的模型去解释它们, 如胶子球、混杂态、结合紧密的四(五)夸克强子态和结合松散的四(五)夸克分子态等, 不同的理论模型仍需要实验的检验。研究奇特强子态可以帮助人们更好的理解强子的结构以及非微扰QCD的行为。
+需求价夸克数量大于3的强子态自然是奇特的, 这是一类更为特殊的强子态。我们希望可以在$B$介子弱衰变过程中寻找$(cs\bar{u}\bar{d})$这类含有4种不同味道夸克的奇特强子态。我们计算了相关衰变的衰变分支比, 可以为实验提供理论指导。
+该课题是我在本科跟随于福升教授进行的, 一开始在国家级大学生创新创业训练计划中立项, 结项后在毕业设计中继续深入, 在毕业论文中得到的结果非常不理想, 在毕业后继续跟进时, LHCb在我们计算的衰变过程($B^-\rightarrow X_c(cs\bar{u}\bar{d})D^-$)中发现了新的奇特强子态, 我们在实验结果中抽取了相关参数完成了最后的计算, 并给出了其他的相关计算和预言, 目前相关成果已经提交到[arXiv:2009.01182 [hep-ph]]. 过程还算是比较曲折的, 非常感恩于老师对于我的指导。
+&amp;nbsp;&amp;nbsp;
+本科毕业论文.pdf (可右键下载)
+2009.01182.pdf (可右键下载)</description>
+    </item>
+    
+    <item>
+      <title>流形微分几何笔记</title>
+      <link>https://example.com/post/%E5%BE%AE%E5%88%86%E5%87%A0%E4%BD%95%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/%E5%BE%AE%E5%88%86%E5%87%A0%E4%BD%95%E7%AC%94%E8%AE%B0/</guid>
+      <description>前段时间自学了侯伯元和侯伯宇先生所著的《物理学家用微分几何(第二版)》的第一部分: 流形微分几何, 为了巩固记忆和梳理思路(其实主要是为了获得成绩和学分😂)。 这是我第一次以这种形式写笔记, 基本上就是把书中的重点内容摘出来照抄了一份, 也没有进行后续的订正, 可能会有很多的错误。
+&amp;nbsp;&amp;nbsp;
+流形微分几何笔记.pdf (可右键下载)</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Tue, 22 Sep 2020 22:24:28 +0800</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>关于我 欢迎来到我的个人主页。我是北京大学物理学院理论物理专业的一名直博生, 我将会在这里上传一些自己读研究生以来的所学所思, 包括笔记、练习、科研工作以及一些简单的科普。建立该主页目的, 除了记录与分享以外, 主要还是为了以此督促自己。
+才学疏浅, 欢迎大佬批评指正。
+教育经历 2016.9-2017.6 兰州大学 核科学与技术学院(本科)
+2017.7-2020.6 兰州大学 萃英学院 物理学(本科), 获理学学士学位
+2020.9-现在&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;北京大学 物理学院 理论物理 粒子物理理论方向 博士在读
+科研工作 Y. K. Chen, J. J. Han, Q. F. Lü, J. P. Wang and F. S. Yu, Branching fractions of $B^-\to D^-X_{0,1}(2900)$ and their implications, [arXiv:2009.01182 [hep-ph]].
+联系我 我的邮箱是chenyanke@stu.pku.edu.cn, 也欢迎来知乎与我互动。</description>
+    </item>
+    
+  </channel>
+</rss>
