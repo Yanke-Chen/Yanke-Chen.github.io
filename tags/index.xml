@@ -1,15 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Your Website Title</title>
+    <title>Tags on 陈炎柯的个人主页</title>
     <link>https://example.com/tags/</link>
-    <description>Recent content in Tags on Your Website Title</description>
+    <description>Recent content in Tags on 陈炎柯的个人主页</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Copyright Year, Your Name</copyright>
+    <copyright>&amp;copy; Copyright 2020, Yan-Ke Chen</copyright>
+    <lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BtoTetraquarks</title>
+      <link>https://example.com/tags/btotetraquarks/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/btotetraquarks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>微分几何</title>
+      <link>https://example.com/tags/%E5%BE%AE%E5%88%86%E5%87%A0%E4%BD%95/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/%E5%BE%AE%E5%88%86%E5%87%A0%E4%BD%95/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

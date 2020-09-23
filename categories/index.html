@@ -15,6 +15,43 @@
     
 
     
+    <script type="text/javascript"
+        async
+        src="https://cdn.bootcss.com/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$'], ['\[\[','\]\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+});
+
+MathJax.Hub.Queue(function() {
+    
+    
+    
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+});
+</script>
+
+<style>
+code.has-jax {
+    font: inherit;
+    font-size: 100%;
+    background: inherit;
+    border: inherit;
+    color: #515151;
+}
+</style>
+
+
 </head>
 <body>
         <div id="content" class="mx-auto"><header class="container mt-sm-5 mt-4 mb-4 mt-xs-1">
@@ -32,28 +69,36 @@
             <h2 class="m-0 mb-2 mt-4">
                 <a href="../" class="text-decoration-none">
                     
-                        Your Name
+                        陈炎柯
                     
                 </a>
             </h2>
             <p class="text-muted mb-1">
                 
-                    Your Creative Subtitle
+                    北京大学 物理学院 理论物理 博士研究生(2020-现在)
                 
             </p>
             <ul id="nav-links" class="list-inline mb-2">
                 
                 
                     <li class="list-inline-item">
-                        <a class="badge badge-white " href="../about/" title="About">About</a>
+                        <a class="badge badge-white " href="../about/" title="关于">关于</a>
                     </li>
                 
                     <li class="list-inline-item">
-                        <a class="badge badge-white " href="../post/" title="Posts">Posts</a>
+                        <a class="badge badge-white " href="../note/" title="笔记">笔记</a>
                     </li>
                 
                     <li class="list-inline-item">
-                        <a class="badge badge-white active" href="../categories/" title="Categories">Categories</a>
+                        <a class="badge badge-white " href="../practice/" title="练习">练习</a>
+                    </li>
+                
+                    <li class="list-inline-item">
+                        <a class="badge badge-white " href="../research/" title="科研工作">科研工作</a>
+                    </li>
+                
+                    <li class="list-inline-item">
+                        <a class="badge badge-white " href="../popularization/" title="科普短文">科普短文</a>
                     </li>
                 
             </ul>
@@ -66,19 +111,13 @@
                     </li>
                 
                     <li class="list-inline-item mr-3">
-                        <a href="" target="_blank">
-                            <i class="fab fa-linkedin-in fa-1x text-muted"></i>
+                        <a href="https://www.zhihu.com/people/chen-yan-ke-76" target="_blank">
+                            <i class="fab fa-zhihu fa-1x text-muted"></i>
                         </a>
                     </li>
                 
                     <li class="list-inline-item mr-3">
-                        <a href="" target="_blank">
-                            <i class="fab fa-twitter fa-1x text-muted"></i>
-                        </a>
-                    </li>
-                
-                    <li class="list-inline-item mr-3">
-                        <a href="" target="_blank">
+                        <a href="chenyanke@stu.pku.edu.cn" target="_blank">
                             <i class="fas fa-at fa-1x text-muted"></i>
                         </a>
                     </li>
@@ -94,6 +133,20 @@
     
     <ul class="list-unstyled">
         
+        <li>
+            
+            <a href="../categories/%E7%A7%91%E7%A0%94%E5%B7%A5%E4%BD%9C/">
+                科研工作
+            </a>
+        </li>
+        
+        <li>
+            
+            <a href="../categories/%E7%AC%94%E8%AE%B0/">
+                笔记
+            </a>
+        </li>
+        
     </ul>
 </div>
 
@@ -101,7 +154,7 @@
         </div><footer class="text-center pb-1">
     <small class="text-muted">
         
-            &copy; Copyright Year, Your Name
+            &copy; Copyright 2020, Yan-Ke Chen
         
         <br>
         Powered by <a href="https://gohugo.io/" target="_blank">Hugo</a>
