@@ -1,0 +1,51 @@
+baseURL = "https://example.com"
+title = "陈炎柯的个人主页"
+languageCode = "en-us"
+theme = "devise"
+relativeURLs = true
+enableEmoji = true
+googleAnalytics = ""
+enableRobotsTXT = true
+copyright = "&copy; Copyright 2020, Yan-Ke Chen"
+
+# Main menu items
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    title = "About"
+    url = "/about/"
+    weight = -110
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    title = "Posts"
+    url = "/post/"
+    weight = -100
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    title = "Categories"
+    url = "/categories/"
+    weight = -90
+
+# Configuration Features
+[params]
+  description = "Hi, 这里是陈炎柯的主页, 我将会在这里上传一些自己近年以来的所学所思, 包括笔记、练习、科学工作以及一些简单的科普。目的除了记录与分享以外, 主要还是为了以此督促自己。才学疏浅, 欢迎大佬批评指正。"      # Your meta description of the site
+  header_title = "陈炎柯"                 # Your header title
+  header_subtitle = "北京大学 物理学院 理论物理 博士研究生(2020-现在)" # Your header subtitle
+  home_image = "/images/avatar.png"          # Path to header image starting from the static directory
+  recent_posts = 5                           # Max amount of recent posts to show
+  mainSections = ["posts", "post", "blog"]   # Main sections to include in recent posts
+  [params.style]                             # CSS style overrides
+    backgroundColor = "#f8f9fa"
+    fontColor = "#212529"
+  [[params.social]]
+    fa_icon = "fab fa-github fa-1x"          # Font Awesome icon class
+    href = "http://github.com/youruser"      # Link to associate with icon (http://, https://, mailto:)
+  [[params.social]]
+    fa_icon = "fab fa-zhihu fa-1x"
+    href = "https://www.zhihu.com/people/chen-yan-ke-76"
+  [[params.social]]
+    fa_icon = "fas fa-at fa-1x"
+    href = "chenyanke@stu.pku.edu.cn"
