@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>高等量子力学 on 陈炎柯的个人主页</title>
+    <link>https://yankechen.xyz/tags/%E9%AB%98%E7%AD%89%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/</link>
+    <description>Recent content in 高等量子力学 on 陈炎柯的个人主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright 2020, Yan-Ke Chen</copyright>
+    <lastBuildDate>Wed, 30 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yankechen.xyz/tags/%E9%AB%98%E7%AD%89%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>高等量子力学笔记</title>
+      <link>https://yankechen.xyz/post/%E9%AB%98%E7%AD%89%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yankechen.xyz/post/%E9%AB%98%E7%AD%89%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E7%AC%94%E8%AE%B0/</guid>
+      <description>该笔记是在北京大学2020年秋季学期上尹澜教授的《高等量子力学》课程所记录，该课程主要使用的教材是J. J. Sakurai以及Jim Napolitano所著的《Modern Quantum Mechanics》。课程和教材本身的难度不高，易于理解，对于细节的讲述十分详细，本笔记主要用于快速浏览，追求简短，故省略了大部分如推导一类的过程。主要记录思路和结果。
+笔记大部分是随着上课在课堂上写的，目前还没有进行订正，所以可能会有很多笔误，等后续慢慢再修改吧。
+第一章的内容省略了很多，主要原因是我在第一章上课时笔记是手写的，由于内容都是基础，后面也比较懒，就没再整理成LaTeX版的。
+随课程进行每周更新。
+ 2020.09.30 更新至2.3节   高等量子力学笔记.pdf (可右键下载)
+高等量子力学笔记(深夜护眼版).pdf (可右键下载)</description>
+    </item>
+    
+  </channel>
+</rss>

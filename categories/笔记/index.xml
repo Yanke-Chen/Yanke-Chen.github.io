@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>笔记 on 陈炎柯的个人主页</title>
@@ -7,20 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2020, Yan-Ke Chen</copyright>
-    <lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yankechen.xyz/categories/%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>粒子物理简介笔记</title>
+      <link>https://yankechen.xyz/post/%E7%B2%92%E5%AD%90%E7%89%A9%E7%90%86%E7%AE%80%E4%BB%8B%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yankechen.xyz/post/%E7%B2%92%E5%AD%90%E7%89%A9%E7%90%86%E7%AE%80%E4%BB%8B%E7%AC%94%E8%AE%B0/</guid>
+      <description>该笔记是在北京大学2020年秋季学期上曹庆宏教授的《粒子物理简介》课程所记录，该课程没有主讲教材，老师讲课时使用的是自己的手稿，参考书目我列在了第一周的笔记中了。目前感觉曹老师讲这门课，在物理的理解上带给了我很多新的心得体会，这个笔记上可能体现不出来。
+这门课的笔记采用手写的方式上传，老师上课不是按照教材是按照自己的思路走，会随时根据情况进行扩充讲解，很难分章节整理，且会画很多的图形方便理解，搞成电子版就比较麻烦了。
+随课程进行每周更新，手写版的文件比较大，我分周上传。
+ 2020.10.01 更新第一周   粒子物理简介笔记week1.pdf (可右键下载)</description>
+    </item>
     
-	<atom:link href="https://yankechen.xyz/categories/%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>高等量子力学笔记</title>
+      <link>https://yankechen.xyz/post/%E9%AB%98%E7%AD%89%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yankechen.xyz/post/%E9%AB%98%E7%AD%89%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E7%AC%94%E8%AE%B0/</guid>
+      <description>该笔记是在北京大学2020年秋季学期上尹澜教授的《高等量子力学》课程所记录，该课程主要使用的教材是J. J. Sakurai以及Jim Napolitano所著的《Modern Quantum Mechanics》。课程和教材本身的难度不高，易于理解，对于细节的讲述十分详细，本笔记主要用于快速浏览，追求简短，故省略了大部分如推导一类的过程。主要记录思路和结果。
+笔记大部分是随着上课在课堂上写的，目前还没有进行订正，所以可能会有很多笔误，等后续慢慢再修改吧。
+第一章的内容省略了很多，主要原因是我在第一章上课时笔记是手写的，由于内容都是基础，后面也比较懒，就没再整理成LaTeX版的。
+随课程进行每周更新。
+ 2020.09.30 更新至2.3节   高等量子力学笔记.pdf (可右键下载)
+高等量子力学笔记(深夜护眼版).pdf (可右键下载)</description>
+    </item>
     
     <item>
       <title>流形微分几何笔记</title>
-      <link>https://yankechen.xyz/post/%E5%BE%AE%E5%88%86%E5%87%A0%E4%BD%95%E7%AC%94%E8%AE%B0/</link>
+      <link>https://yankechen.xyz/post/%E6%B5%81%E5%BD%A2%E5%BE%AE%E5%88%86%E5%87%A0%E4%BD%95%E7%AC%94%E8%AE%B0/</link>
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yankechen.xyz/post/%E5%BE%AE%E5%88%86%E5%87%A0%E4%BD%95%E7%AC%94%E8%AE%B0/</guid>
-      <description>前段时间自学了侯伯元和侯伯宇先生所著的《物理学家用微分几何(第二版)》的第一部分: 流形微分几何, 为了巩固记忆和梳理思路(其实主要是为了获得成绩和学分😂)。 这是我第一次以这种形式写笔记, 基本上就是把书中的重点内容摘出来照抄了一份, 也没有进行后续的订正, 可能会有很多的错误。
-&amp;nbsp;&amp;nbsp;
-流形微分几何笔记.pdf (可右键下载)</description>
+      <guid>https://yankechen.xyz/post/%E6%B5%81%E5%BD%A2%E5%BE%AE%E5%88%86%E5%87%A0%E4%BD%95%E7%AC%94%E8%AE%B0/</guid>
+      <description>前段时间自学了侯伯元和侯伯宇先生所著的《物理学家用微分几何(第二版)》的第一部分: 流形微分几何, 为了巩固记忆和梳理思路(其实主要是为了获得成绩和学分，哈哈)。 这是我第一次以这种形式写笔记, 基本上就是把书中的重点内容摘出来照抄了一份, 也没有进行后续的订正, 可能会有很多的错误。
+ 流形微分几何笔记.pdf (可右键下载)</description>
     </item>
     
   </channel>

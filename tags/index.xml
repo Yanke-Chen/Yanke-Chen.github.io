@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 陈炎柯的个人主页</title>
@@ -7,10 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2020, Yan-Ke Chen</copyright>
-    <lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yankechen.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>粒子物理</title>
+      <link>https://yankechen.xyz/tags/%E7%B2%92%E5%AD%90%E7%89%A9%E7%90%86/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yankechen.xyz/tags/%E7%B2%92%E5%AD%90%E7%89%A9%E7%90%86/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://yankechen.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>高等量子力学</title>
+      <link>https://yankechen.xyz/tags/%E9%AB%98%E7%AD%89%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yankechen.xyz/tags/%E9%AB%98%E7%AD%89%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BtoTetraquarks</title>
