@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>群论 on 陈炎柯的个人主页</title>
+    <link>https://yankechen.xyz/tags/%E7%BE%A4%E8%AE%BA/</link>
+    <description>Recent content in 群论 on 陈炎柯的个人主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright 2020, Yan-Ke Chen</copyright>
+    <lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yankechen.xyz/tags/%E7%BE%A4%E8%AE%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>群论&amp;李群李代数笔记</title>
+      <link>https://yankechen.xyz/post/%E7%BE%A4%E8%AE%BA%E6%9D%8E%E7%BE%A4%E6%9D%8E%E4%BB%A3%E6%95%B0%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yankechen.xyz/post/%E7%BE%A4%E8%AE%BA%E6%9D%8E%E7%BE%A4%E6%9D%8E%E4%BB%A3%E6%95%B0%E7%AC%94%E8%AE%B0/</guid>
+      <description>这篇笔记是我本科期间在兰州大学2018秋季学期学习刘玉孝(教授)老师讲授的《群论》课程记录的笔记，以及在之后学习马中骥老师的《物理学中的群论——李代数篇》所记录的读书笔记。
+刘玉孝老师所授《群论》大致相当于国内研究生课程群论(I)的内容，基于选课学生的方向的大致情况以及自己的研究方向，刘玉孝老师多讲解了一些李群，减少了一点有限群的内容，两个方面的侧重都不明显，可以让学生了解基本概念的情况下各取所需自己深入学习。不过在上课时，有几节课程由于个人原因没能到场，后续也没有补上，比较可惜。
+在后来我学习了马中骥老师的《物理学中的群论——李代数篇》，早些时候我在读Griffiths的《Introduction to Elementary Particles》时，关于对称性有诸多不理解的地方，在这之后算是知道了，对于前期《数学物理方法》、《量子力学》等课程也有了新的认识。真的感觉《群论》是一门比较“神奇”的课程，感觉这门课如果开在本科二三年级应该相当好吧。
+《群论》的课程笔记和《物理学中的群论——李代数篇》的前三章内容有很多的重复，所以我笔记写的比较简略。
+笔记可能有很多比笔误，或者知识上的错误，欢迎各位大佬批评指正交流讨论。
+ 《群论》课程笔记.pdf (可右键下载)
+李群李代数c1笔记.pdf (可右键下载)
+李群李代数c2笔记.pdf (可右键下载)
+李群李代数c3笔记.pdf (可右键下载)
+李群李代数c4笔记.pdf (可右键下载)
+李群李代数c5笔记.pdf (可右键下载)</description>
+    </item>
+    
+  </channel>
+</rss>
