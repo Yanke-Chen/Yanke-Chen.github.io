@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2020, Yan-Ke Chen</copyright>
-    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yankechen.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yankechen.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>量子场论</title>
+      <link>https://yankechen.xyz/tags/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yankechen.xyz/tags/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>粒子物理</title>
       <link>https://yankechen.xyz/tags/%E7%B2%92%E5%AD%90%E7%89%A9%E7%90%86/</link>
@@ -41,6 +50,24 @@
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yankechen.xyz/tags/%E5%BE%AE%E5%88%86%E5%87%A0%E4%BD%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>李群与李代数</title>
+      <link>https://yankechen.xyz/tags/%E6%9D%8E%E7%BE%A4%E4%B8%8E%E6%9D%8E%E4%BB%A3%E6%95%B0/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yankechen.xyz/tags/%E6%9D%8E%E7%BE%A4%E4%B8%8E%E6%9D%8E%E4%BB%A3%E6%95%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>群论</title>
+      <link>https://yankechen.xyz/tags/%E7%BE%A4%E8%AE%BA/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yankechen.xyz/tags/%E7%BE%A4%E8%AE%BA/</guid>
       <description></description>
     </item>
     
