@@ -1,30 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://yankechen.xyz/categories/</loc>
-    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yankechen.xyz/post/</loc>
-    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yankechen.xyz/tags/</loc>
-    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yankechen.xyz/categories/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yankechen.xyz/tags/%E7%B2%92%E5%AD%90%E7%89%A9%E7%90%86/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yankechen.xyz/post/%E7%B2%92%E5%AD%90%E7%89%A9%E7%90%86%E7%AE%80%E4%BB%8B%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yankechen.xyz/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yankechen.xyz/tags/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA/</loc>
     <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -33,28 +55,14 @@
   </url>
   
   <url>
-    <loc>https://yankechen.xyz/</loc>
-    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://yankechen.xyz/tags/%E9%AB%98%E7%AD%89%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/</loc>
     <lastmod>2020-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yankechen.xyz/post/%E9%AB%98%E7%AD%89%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2020-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yankechen.xyz/tags/%E7%B2%92%E5%AD%90%E7%89%A9%E7%90%86/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yankechen.xyz/post/%E7%B2%92%E5%AD%90%E7%89%A9%E7%90%86%E7%AE%80%E4%BB%8B%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -80,6 +88,7 @@
   <url>
     <loc>https://yankechen.xyz/tags/btotetraquarks/</loc>
     <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -90,11 +99,13 @@
   <url>
     <loc>https://yankechen.xyz/tags/%E5%BE%AE%E5%88%86%E5%87%A0%E4%BD%95/</loc>
     <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yankechen.xyz/tags/%E6%9D%8E%E7%BE%A4%E4%B8%8E%E6%9D%8E%E4%BB%A3%E6%95%B0/</loc>
     <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -105,11 +116,13 @@
   <url>
     <loc>https://yankechen.xyz/categories/%E7%A7%91%E7%A0%94%E5%B7%A5%E4%BD%9C/</loc>
     <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yankechen.xyz/tags/%E7%BE%A4%E8%AE%BA/</loc>
     <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

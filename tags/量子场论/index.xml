@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>量子场论 on 陈炎柯的个人主页</title>
@@ -7,7 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2020, Yan-Ke Chen</copyright>
-    <lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yankechen.xyz/tags/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://yankechen.xyz/tags/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>量子场论(I)笔记</title>
       <link>https://yankechen.xyz/post/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BAi%E7%AC%94%E8%AE%B0/</link>
@@ -17,7 +21,8 @@
       <description>本笔记是在北京大学2020年秋季学期马滟青(助理教授)老师所授的《量子场论(I)》课程所记录。课程的主要参考教材有:Michael E. Peskin和Daniel V. Schroeder所著的《An introduction to Quantum Feild Theory》，郑汉青老师所著的《量子场论(上)》以及刘川老师的讲义。作为笔记可能会省略很多推导过程，主要记录思路和结果。可能会有很多笔误，后续有时间再慢慢修改。
 笔记可能有很多比笔误，以及知识上的错误，欢迎各位大佬批评指正交流讨论。
 随课程进行每周更新。
- 2020.10.05 更新至2.1节 2020.10.15 更新至2.3节   量子场论(I)笔记.pdf (可右键下载)
+ 2020.10.05 更新至2.1节 2020.10.15 更新至2.3节  &amp;nbsp;&amp;nbsp;
+量子场论(I)笔记.pdf (可右键下载)
 量子场论(I)笔记(深夜护眼版).pdf (可右键下载)</description>
     </item>
     
