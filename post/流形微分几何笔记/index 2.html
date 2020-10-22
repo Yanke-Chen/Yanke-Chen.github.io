@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en"><head>
+    <title>流形微分几何笔记</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="学习侯伯元先生和侯伯宇先生所著《物理学家用微分几何(第二版)》的读书笔记" />
+
+    
+    
+    
+    <link rel="stylesheet" href="../../css/theme.min.css">
+
+    
+    
+    
+
+    
+    <script type="text/javascript"
+        async
+        src="https://cdn.bootcss.com/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$'], ['\[\[','\]\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+});
+
+MathJax.Hub.Queue(function() {
+    
+    
+    
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+});
+</script>
+
+<style>
+code.has-jax {
+    font: inherit;
+    font-size: 100%;
+    background: inherit;
+    border: inherit;
+    color: #515151;
+}
+</style>
+
+
+</head>
+<body>
+        <div id="content" class="mx-auto"><header class="container mt-sm-5 mt-4 mb-4 mt-xs-1">
+    <div class="row">
+        <div class="col-sm-4 col-12 text-sm-right text-center pt-sm-4">
+            <a href="../../" class="text-decoration-none">
+                <img id="home-image" class="rounded-circle"
+                    
+                        src="../../images/avatar.png"
+                    
+                />
+            </a>
+        </div>
+        <div class="col-sm-8 col-12 text-sm-left text-center">
+            <h2 class="m-0 mb-2 mt-4">
+                <a href="../../" class="text-decoration-none">
+                    
+                        陈炎柯
+                    
+                </a>
+            </h2>
+            <p class="text-muted mb-1">
+                
+                    北京大学 物理学院 理论物理 博士研究生(2020-现在)
+                
+            </p>
+            <ul id="nav-links" class="list-inline mb-2">
+                
+                
+                    <li class="list-inline-item">
+                        <a class="badge badge-white " href="../../about/" title="关于">关于</a>
+                    </li>
+                
+                    <li class="list-inline-item">
+                        <a class="badge badge-white " href="../../note/" title="笔记">笔记</a>
+                    </li>
+                
+                    <li class="list-inline-item">
+                        <a class="badge badge-white " href="../../practice/" title="练习">练习</a>
+                    </li>
+                
+                    <li class="list-inline-item">
+                        <a class="badge badge-white " href="../../research/" title="科研工作">科研工作</a>
+                    </li>
+                
+                    <li class="list-inline-item">
+                        <a class="badge badge-white " href="../../popularization/" title="科普短文">科普短文</a>
+                    </li>
+                
+            </ul>
+            <ul id="nav-social" class="list-inline">
+                
+                    <li class="list-inline-item mr-3">
+                        <a href="https://www.zhihu.com/people/chen-yan-ke-76" target="_blank">
+                            <i class="fab fa-zhihu fa-1x text-muted"></i>
+                        </a>
+                    </li>
+                
+                    <li class="list-inline-item mr-3">
+                        <a href="mailto:chenyanke@stu.pku.edu.cn" target="_blank">
+                            <i class="fas fa-at fa-1x text-muted"></i>
+                        </a>
+                    </li>
+                
+            </ul>
+        </div>
+    </div>
+    <hr />
+</header>
+<div class="container">
+    <div class="pl-sm-2">
+        <div class="mb-3">
+            <h3 class="mb-0">流形微分几何笔记</h3>
+            
+            <small class="text-muted">Published September 23, 2020</small>
+        </div>
+
+        <article>
+            <p>前段时间自学了侯伯元和侯伯宇先生所著的《物理学家用微分几何(第二版)》的第一部分: 流形微分几何, 为了巩固记忆和梳理思路(其实主要是为了获得成绩和学分，哈哈)。 这是我第一次以这种形式写笔记, 基本上就是把书中的重点内容摘出来照抄了一份, 也没有进行后续的订正, 可能会有很多的错误。</p>
+
+<p>流形微分几何和李群李代数原本是联系非常紧密的，不过按我目前的学习情况来看，我并没有很好地将二者结合在一起学习，反而是有些割裂了，做得挺不好的，以后一定要再结合起来好好梳理一下。</p>
+
+<p>笔记可能有很多比笔误，或者知识上的错误，欢迎各位大佬批评指正交流讨论。</p>
+
+<p>&nbsp;&nbsp;</p>
+
+<p><a href="../resources/MDGnote.pdf">流形微分几何笔记.pdf</a> (可右键下载)</p>
+
+        </article>
+    </div>
+
+            </div>
+        </div><footer class="text-center pb-1">
+    <small class="text-muted">
+        
+            &copy; Copyright 2020, Yan-Ke Chen
+        
+        <br>
+        Powered by <a href="https://gohugo.io/" target="_blank">Hugo</a>
+        and <a href="https://github.com/austingebauer/devise" target="_blank">Devise</a>
+    </small>
+</footer>
+</body>
+</html>
