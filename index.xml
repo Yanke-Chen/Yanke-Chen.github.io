@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2020, Yan-Ke Chen</copyright>
-    <lastBuildDate>Sat, 05 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yankechen.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yankechen.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>量子场论习题 I : Radiation of Gluon Jets</title>
+      <link>https://yankechen.xyz/post/qftexercise1/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yankechen.xyz/post/qftexercise1/</guid>
+      <description>最近临近期末考试了，作为一个期末前的练手和复习，做了一下Peskin的场论书的第一个Final Project : Radiation of Gluon Jets，并且在知乎上记录一下。个人认为这个习题涉及到的知识和计算相较于第一个学期的场论课而言还是挺全面的，用于复习非常不错。写下来没有仔细检查，可能有很多笔误，烦请谅解。
+量子场论习题 I : Radiation of Gluon Jets</description>
+    </item>
+    
     <item>
       <title>群论(I)笔记</title>
       <link>https://yankechen.xyz/post/%E7%BE%A4%E8%AE%BAi%E7%AC%94%E8%AE%B0/</link>
